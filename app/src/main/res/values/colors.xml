@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="bg_blue">#142F57</color>
+    <color name="bg_blue_transpr">#E6142F57</color>
+    <color name="gray">#DEDEDE</color>
+    <color name="gray2">#FFFFFF</color>
+    <color name="headingText">#606060</color>
+    <color name="subheadText">#A8A8A8</color>
+    <color name="subcolor">#F6F6F6</color>
+    <color name="textColor">#575757</color>
+    <color name="skyblue">#4BACE5</color>
+    <color name="smokewhite">#F5F5F5</color>
+    <color name="submenu_blue">#CC3F6CB0</color>
+    <color name="menu_btn_blue">#B3255197</color>
+    <color name="darkPurple">#0A1C38</color>
+    <color name="purple">#14305B</color>
+    <color name="key_pad_bg">#D9DEED</color>
+    <color name="key_pad_fg">#7B808F</color>
+    <color name="key_pad_wbg">#A5ADBD</color>
+    <color name="key_pad_wfg">#B3A5ADBD</color>
+    <color name="inputscrn_blue">#1F4B91</color>
+    <color name="inputscrn_blue_trans">#261F4B91</color>
+    <color name="key_pad_line">#ff3b3b3b</color>
+    <color name="blue">#2B6BCF</color>
+    <color name="compare_lone_list_gray">#33dedede</color>
+    <color name="green">#2DF92D</color>
+    <color name="moreoption_layout">#003366</color>
+    <color name="pie_green">#38A38C</color>
+    <color name="pie_red">#C53124</color>
+    <color name="pie_merun">#553754</color>
+    <color name="pie_blue">#00547E</color>
+    <color name="pie_yellow">#CF8E3A</color>
+</resources>
